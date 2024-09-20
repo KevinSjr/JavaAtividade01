@@ -85,6 +85,8 @@ public class Java03 {
    else
    {System.out.println("Pessoa com cor favorita diferente"); }  
     if (contador >= 3) 
-    {System.out.println("Esta pessoa é bem parecida comigo!");} 
+    {System.out.println("Esta pessoa é bem parecida comigo!");}
+
+      leia.close();    
     }
 }
