@@ -65,6 +65,7 @@ public class Java02 {
        {System.out.println("o gênero é igual a f");}
        else
        {System.out.println("O gênero não é igual a f");}
-    
+
+         leia.close(); 
     }
 }
