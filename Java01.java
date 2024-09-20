@@ -37,6 +37,7 @@ public class Java01 {
       
       System.out.println("o valor total com desconto para pagamento antecipado"+vtdesconto);
       System.out.println("valor de multa em cada parcela"+vpmulta2);
-    
+
+      leia.close();   
     }
 }
